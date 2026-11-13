@@ -1,0 +1,12 @@
+{
+  "bet_share": 0.5,
+  "price_offset": 0.01,
+  "fee_rate": 0.05,
+  "maker_rebate": 0.15,
+  "flat_stake": 50.0,
+  "start_bankroll": 1000.0,
+  "spread_to_probability": {
+    "coef": 0.13937850128924223,
+    "intercept": -0.0017065189882422911
+  }
+}
