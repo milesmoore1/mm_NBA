@@ -2,3 +2,9 @@ __pycache__/
 .pytest_cache/
 .ipynb_checkpoints/
 .venv/
+.paradev/.run-port
+.paradev/config.local.json
+.env
+.env.*
+STOP
+data/orders.csv
