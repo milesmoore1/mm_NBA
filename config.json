@@ -8,5 +8,11 @@
   "spread_to_probability": {
     "coef": 0.13937850128924223,
     "intercept": -0.0017065189882422911
+  },
+  "trading": {
+    "stake_usd": 5.0,
+    "max_order_usd": 5.0,
+    "max_day_usd": 60.0,
+    "max_open_usd": 60.0
   }
 }

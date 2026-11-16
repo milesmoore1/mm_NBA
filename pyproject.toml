@@ -3,7 +3,7 @@ name = "mm-nba"
 version = "0.1.0"
 description = "The NBA lean: which side of a Polymarket moneyline to bid on an hour before tipoff"
 requires-python = ">=3.11"
-dependencies = ["numpy", "pandas", "pyarrow", "scikit-learn>=1.5,<1.9", "matplotlib", "jupyter", "pytest"]
+dependencies = ["numpy", "pandas", "pyarrow", "scikit-learn>=1.5,<1.9", "matplotlib", "jupyter", "pytest", "py-clob-client"]
 
 [tool.pytest.ini_options]
 pythonpath = ["."]
